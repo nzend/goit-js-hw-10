@@ -18,3 +18,15 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.country-list img {
+  width: 32px;
+  height: 16px;
+  margin-right: 12px;
+}
+.country-info {
+  align-items: center;
+}
+.country-info img {
+  width: 280px;
+  height: 90px;
+}
